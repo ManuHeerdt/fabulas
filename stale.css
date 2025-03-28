@@ -11,3 +11,7 @@ body{
 img{
     width: 500px;
 }
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
